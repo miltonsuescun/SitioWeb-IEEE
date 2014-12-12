@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+body
+{
+
+	background-color:#400080;
+
+}
+h1
+{
+	
+	color:black;
+	margin:20px;
+}
+label
+{
+	color: black;
+}
+legend
+{
+	color: black;	
+}
+p{
+	color: black;
+	font-family: "Monotype Corsiva";
+	font-size: 20px;
+}
